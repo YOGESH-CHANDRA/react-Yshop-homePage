@@ -1,0 +1,21 @@
+:root{
+    --brandColor:#8F0101;
+}
+.logo {
+    height: 50px;
+}
+
+.brand-name {
+    font-size: 25px;
+}
+.bname, .fa-cart-shopping, .login, .search{
+    color: var(--brandColor);
+}
+.login, .search{
+border:1px solid var(--brandColor);
+}
+
+.cart{
+    margin-left: 15px;
+    transform: scale(2);
+}

@@ -1,0 +1,14 @@
+.footer {
+    padding: 20px;
+    background-color: gray;
+    color: white;
+}
+
+.footer a {
+    text-decoration: none;
+    color: white;
+}
+
+.footer a:hover {
+    transform: scale(1.1);
+}
